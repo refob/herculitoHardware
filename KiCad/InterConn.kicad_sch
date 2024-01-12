@@ -713,7 +713,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x12_Odd_Even") (at 107.95 90.17 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000064494bf7)
-    (property "Reference" "ExtensionBoard" (at 122.682 90.2716 90)
+    (property "Reference" "InterConn" (at 122.682 90.2716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_02x12_Odd_Even" (at 122.682 92.583 90)
@@ -752,7 +752,7 @@
     (instances
       (project "InterConn"
         (path "/4973e3e7-48dc-4f4c-a353-a7d40b7094c7"
-          (reference "ExtensionBoard") (unit 1)
+          (reference "InterConn") (unit 1)
         )
       )
     )
