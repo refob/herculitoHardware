@@ -7,10 +7,10 @@ Schematic missing
 </pre>
 
 Front side
-![Front side](/Extension%20Board/01.jpg)
+![Front side](/Extension/01.jpg)
 
 Back side
-![Back side](/Extension%20Board/02.jpg)
+![Back side](/Extension/02.jpg)
 
 Extension board build into the controlBox
-![Front side](/Extension%20Board/03.jpg)
+![Buildin](/Extension/03.jpg)
