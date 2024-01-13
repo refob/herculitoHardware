@@ -3,6 +3,7 @@
 Size of the breadboard: 20x25 mm
 
 Connections:
+
 | GND	| black   |
 | +5V	| red     |
 | SCK	| violet  |
