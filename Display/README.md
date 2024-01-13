@@ -18,4 +18,14 @@ Connections:
 | 8 | -      | LEDA | 3V3   | -    | -        |    |
 | - | -      | -    | -     | -    | TFT_MOSI | -1 |
 
+<pre>
+Schematic missing!
+</pre>
+
+Connect the cables as shown
 ![Display Connections](/Display/01.jpg)
+Front side
+![Display Connections](/Display/02.jpg)
+Back side
+![Display Connections](/Display/03.jpg)
+
