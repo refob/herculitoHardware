@@ -32,52 +32,13 @@ ets Jul 29 2019 12:21:46<CR>
 <CR>
 </pre>
 
-<pre>
- rst:0x10 (RTCWDT_RTC_RESET),boot:0x33 (SPI_FAST_FLASH_BOOT)<CR>
- invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR>
- invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR>
- invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR>
- invalid header: 0xffffffff<CR> ets Jul 29 2019 12:21:46<CR>
-</pre>
-
- If I connect gnd to gpio12 then it will boot into the flashed program. 
-
- GPIO_NUM_12 and GPIO_NUM_13 can be tricky to use on a ESP32 
- with those lines being used for boot and program load. I 
- recommend against using GPIO_NUM_12.
-
-Power via USB: 75-87 mA 4.96V
-
-Regular boot sequence
----------------------
-
-
-Boot crash
-----------
-rst:0x10 (RTCWDT_RTC_RESET),boot:0x33 (SPI_FAST_FLASH_BOOT)<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-ets Jul 29 2019 12:21:46<CR>
-<CR>
-rst:0x10 (RTCWDT_RTC_RESET),boot:0x33 (SPI_FAST_FLASH_BOOT)<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-invalid header: 0xffffffff<CR>
-ets Jul 29 2019 12:21:46<CR>
-<CR>
-
-Hardware Fix:
--------------
-Disconnect GPIO12 and the connect ENABLE to GPIO00 (not yet used).
-
+ This seems to be caused by a higher load that the TMC2209 drivers put on the 
+ GPIO12 port, which status is critcal during the ESP32 boot.
+ 
+ The TMC2209 drivers keep cool during operation and run the steppers in a very
+ silent mode. There I decided to implement a hardware fix:
+ 
+ *Disconnect GPIO12 and the connect ENABLE to the GPIO00 pin that is not used.*
+ 
 
 
