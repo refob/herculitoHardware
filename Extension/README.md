@@ -2,6 +2,10 @@
 
 Size of the breadboard: 50 x 62 mm
 
+<pre>
+Schematic missing
+</pre>
+
 Front side
 ![Front side](/Extension%20Board/01.jpg)
 
