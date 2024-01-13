@@ -51,14 +51,18 @@ The pin above "ENABLE" has to be removed
 View, after the pin was removed
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20b.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20c.jpg)
-Solder the removed pin to a cable
+Solder the removed pin to a cable and the solder dot on the pcb board
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20d.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20e.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20f.jpg)
+Connect the pin to "IO00" on the Wemos D1 R32 board
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20g.jpg)
 
+Locate resistor R1 on the CNC shield
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20a.jpg)
+Removed resistor R1
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20b.jpg)
+Add a new 10k resistor on the other side of the pcb between the shown solder dots
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20c.jpg)
 
 
