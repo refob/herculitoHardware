@@ -1,9 +1,7 @@
 # InterConn Board
 
-InterConn Connections 
 ![Interconn-Top](/InterConn/Interconn-Top.png)
 
-InterConn Connections (Detail)
 ![InterConn-Connections](/InterConn/InterConn-Connections.png)
 
 InterConn schematic 
