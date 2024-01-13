@@ -46,14 +46,6 @@ ets Jul 29 2019 12:21:46<CR>
  
 ![Hardware Modifications](/CNC%20Shield%20V3/CNC%20Shield%20Modifications.png)
 
-<pre>
-To be validated:
-Beeper 	-> Endstop X-	yellow
-Reset  	-> E-STOP
-Servo A -> SpnEn
-Servo B -> SPnDir
-</pre>
-
 The pin above "ENABLE" has to be removed
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20a.jpg)
 View, after the pin was removed
