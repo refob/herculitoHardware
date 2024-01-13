@@ -44,5 +44,5 @@ ets Jul 29 2019 12:21:46<CR>
  it connected to +5V level that is too high for the ESP32 which allows a maximum
  of 3V3 for its ports.
  
-![Hardware Modifications](/CNC%20Shield%20V3/enable%20g.jpg)
+![Hardware Modifications](/CNC%20Shield%20V3/CNC%20Shield%20Modifications.png)
 
