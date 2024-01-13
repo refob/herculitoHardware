@@ -36,9 +36,13 @@ ets Jul 29 2019 12:21:46<CR>
  GPIO12 port, which status is critcal during the ESP32 boot.
  
  The TMC2209 drivers keep cool during operation and run the steppers in a very
- silent mode. There I decided to implement a hardware fix:
+ silent mode. Therefore I decided to implement a hardware fix:
  
  *Disconnect GPIO12 and the connect ENABLE to the GPIO00 pin that is not used.*
  
-
+ Please also note that the R1 resistor has to be removed from the board, because
+ it connected to +5V level that is too high for the ESP32 which allows a maximum
+ of 3V3 for its ports.
+ 
+![Hardware Modifications](/CNC%20Shield%20V3/enable%20g.jpg)
 
