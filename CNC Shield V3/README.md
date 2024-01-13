@@ -46,9 +46,12 @@ ets Jul 29 2019 12:21:46<CR>
  
 ![Hardware Modifications](/CNC%20Shield%20V3/CNC%20Shield%20Modifications.png)
 
+The pin above "ENABLE" has to be removed
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20a.jpg)
+View, after the pin was removed
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20b.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20c.jpg)
+Solder the removed pin to a cable
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20d.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20e.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20f.jpg)
