@@ -6,15 +6,6 @@ Length of the cables: 75.0 cm
 
 Connections:
 
-| GND	| black   |
-|-------| :---:   |
-| +5V	| red     |
-| SCK	| violet  |
-| SDA	| green   |
-| RS	| blue    |
-| CS	| orange  |
-| Reset	| brown   |
-
 | N | Color  | Disp | SPI   | ESP  |  TFT     | No |
 |---| :---:  |------| :---: | :---:| :---:    |----|
 | 1 | black  | GND  | 0v	   | GND  | GND      | -  |
