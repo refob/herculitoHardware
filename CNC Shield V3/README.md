@@ -60,7 +60,7 @@ Connect the pin to "IO00" on the Wemos D1 R32 board
 
 Locate resistor R1 on the CNC shield
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20a.jpg)
-Removed resistor R1
+Remove the resistor R1
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20b.jpg)
 Add a new 10k resistor on the other side of the pcb between the shown solder dots
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20c.jpg)
