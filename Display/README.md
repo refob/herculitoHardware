@@ -18,4 +18,4 @@ Connections:
 | 8 | -      | LEDA | 3V3   | -    | -        |    |
 | - | -      | -    | -     | -    | TFT_MOSI | -1 |
 
-
+![Display Connections](/Display/01.jpg)
