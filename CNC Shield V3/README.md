@@ -1,10 +1,10 @@
 # CNC Shield V3
 
-Wemos D1 R32
+ The Wemos D1 R32 board controls the CNC Shield V3.0. This works fine,
+ if A4988 drivers are use on the shield.
 
-CNC Shield V3.0
-
-TMC2209 A4988
+ Once the A4988 drivers are exchanged with TMC2209 boards I observed The
+ following error:
 
 rst:0x10 (RTCWDT_RTC_RESET),boot:0x33 (SPI_FAST_FLASH_BOOT)<CR> invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR> invalid header: 0xffffffff<CR> ets Jul 29 2019 12:21:46<CR>
 
