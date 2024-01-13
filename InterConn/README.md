@@ -1,10 +1,10 @@
 # InterConn Board
 
 InterConn Connections 
-![Interconn-Top](/KiCad/Interconn-Top.png)
+![Interconn-Top](/InterConn/Interconn-Top.png)
 
 InterConn Connections (Detail)
-![InterConn-Connections](/KiCad/InterConn-Connections.png)
+![InterConn-Connections](/InterConn/InterConn-Connections.png)
 
 InterConn schematic 
 ![InterConn schematic ](/KiCad/InterConn.png)
