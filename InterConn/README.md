@@ -1,14 +1,14 @@
 # InterConn Board
 
-![Interconn-Top](/InterConn/Interconn-Top.png)
-
-![InterConn-Connections](/InterConn/InterConn-Connections.png)
-
 ### BOM
 * 1x [Prototype PCB Expansion Board For Arduino](https://www.aliexpress.com/item/1005004015343791.html)
 * 1x [90 Degree 2.54mm  Double Row Pin Header 2x12P](https://www.aliexpress.com/item/32848774255.html)
 * 1x [2.54mm Pitch 1x3 Pin Male Hole Round Header Strip Connector](https://www.aliexpress.com/item/1005005053790061.html)
 * 4x 10k resistor
+
+![Interconn-Top](/InterConn/Interconn-Top.png)
+
+![InterConn-Connections](/InterConn/InterConn-Connections.png)
 
 InterConn schematic 
 
