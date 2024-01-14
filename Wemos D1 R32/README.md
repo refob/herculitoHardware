@@ -20,11 +20,12 @@ Solder cables as shown to connect power
 ![D1_led_location_b](/Wemos%20D1%20R32/D1_led_location_b.jpg)
 ![D1_led_location_c](/Wemos%20D1%20R32/D1_led_location_c.jpg)
 
-![D1_leds_blinking](/Wemos%20D1%20R32/D1_leds_blinking.mp4)
 
 ![D1_leds_off](/Wemos%20D1%20R32/D1_leds_off.jpg)
 
 ![D1_leds_red_a](/Wemos%20D1%20R32/D1_leds_red_a.jpg)
 ![D1_leds_red_b](/Wemos%20D1%20R32/D1_leds_red_b.jpg)
 ![D1_leds_red_c](/Wemos%20D1%20R32/D1_leds_red_c.jpg)
+
+![Download movie: Blinking ledsD1_leds_blinking](https://github.com/refob/herculitoHardware/raw/main/Wemos%20D1%20R32/D1_leds_blinking.mp4)
 
