@@ -27,7 +27,7 @@ Place the Extensions
 
 ![place Extensions](/controlBox/place%20Extensions.jpg)
 
-Locate the reset button on the lower left
+Locate the reset button on the lower right
 
 ![reset1](/controlBox/reset1.jpg)
 
