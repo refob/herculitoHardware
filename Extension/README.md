@@ -9,9 +9,8 @@
 * 1x [2.54mm Single Row Male Pin Header 1x1](https://www.aliexpress.com/item/1005001514058091.html)
 * 1x [JST XH2.54 2 Pin Terminals Plastic Shell Male Plug](https://www.aliexpress.com/item/1005003422202370.html)
 
-<pre>
-Schematic missing
-</pre>
+Schematic
+![Front side](/KiCad/Extension/Extension.jpg)
 
 Front side
 ![Front side](/Extension/01.jpg)
