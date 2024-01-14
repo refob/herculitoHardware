@@ -30,19 +30,13 @@ Fix the optic cables on the board with hot glue
 
 ![D1_led_location_c](/Wemos%20D1%20R32/D1_led_location_d.jpg)
 
+Red led active
 
-![D1_led_blue_a](/Wemos%20D1%20R32/D1_led_blue_a.jpg)
+![D1_leds_red_a](/Wemos%20D1%20R32/D1_leds_red.jpg)
 
-![D1_led_blue_b](/Wemos%20D1%20R32/D1_led_blue_b.jpg)
+Red and blue led active
 
-![D1_led_blue_c](/Wemos%20D1%20R32/D1_led_blue_c.jpg)
-
-
-![D1_leds_red_a](/Wemos%20D1%20R32/D1_leds_red_a.jpg)
-
-![D1_leds_red_b](/Wemos%20D1%20R32/D1_leds_red_b.jpg)
-
-![D1_leds_red_c](/Wemos%20D1%20R32/D1_leds_red_c.jpg)
+![D1_led_blue_a](/Wemos%20D1%20R32/D1_led_blue.jpg)
 
 ![Download movie: Blinking leds](https://github.com/refob/herculitoHardware/raw/main/Wemos%20D1%20R32/D1_leds_blinking.mp4)
 
