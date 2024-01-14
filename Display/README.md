@@ -18,7 +18,7 @@ Connections:
 | 8 | -      | LEDA | 3V3   | -    | -        |    |
 | - | -      | -    | -     | -    | TFT_MOSI | -1 |
 
-![Display Schematic](/KiCad/Display.png)
+![Display Schematic](/KiCad/Display/Display.png)
 
 Connect the cables as shown
 ![Display Connections](/Display/01.jpg)
