@@ -5,7 +5,7 @@
 ![InterConn-Connections](/InterConn/InterConn-Connections.png)
 
 InterConn schematic 
-![InterConn schematic ](/KiCad/InterConn.png)
+![InterConn schematic ](/KiCad/InterConn/InterConn.png)
 
 InterConn Front
 ![InterConn Front](/InterConn/InterConn%20Front.jpg)
