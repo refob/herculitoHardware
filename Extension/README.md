@@ -10,7 +10,7 @@
 * 1x [JST XH2.54 2 Pin Terminals Plastic Shell Male Plug](https://www.aliexpress.com/item/1005003422202370.html)
 
 Schematic
-![Front side](/KiCad/Extension/Extension.jpg)
+![Schematic](/KiCad/Extension/Extension.png)
 
 Front side
 ![Front side](/Extension/01.jpg)
