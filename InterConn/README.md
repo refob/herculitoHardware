@@ -20,11 +20,14 @@ InterConn Back
 
 Connector to Wemos D1 R32 board
 ![a](/InterConn/3pin%20a.jpg)
+
 Board aligned with pins
 ![a](/InterConn/3pin%20b.jpg)
+
 Board 50% push down
 ![a](/InterConn/3pin%20c.jpg)
 Board completely push down
+
 ![a](/InterConn/3pin%20c.jpg)
 
 InterConn inside controlBox
