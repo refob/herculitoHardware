@@ -26,8 +26,8 @@ Board aligned with pins
 
 Board 50% push down
 ![a](/InterConn/3pin%20c.jpg)
-Board completely push down
 
+Board completely push down
 ![a](/InterConn/3pin%20c.jpg)
 
 InterConn inside controlBox
