@@ -7,7 +7,7 @@
 
 Pin mapping of the Wemos D1 R32 Board
 
-![Pin mapping](/Wemos%20D1%20R32/Weemos%20CNC30%20UNO%20Mapping.jpg)
+![Pin mapping](/Wemos%20D1%20R32/Weemos%20CNC30%20UNO%20Mapping.png)
 
 Solder cables as shown to connect power
 
@@ -15,19 +15,21 @@ Solder cables as shown to connect power
 
 ![D1_power_b](/Wemos%20D1%20R32/D1_power_b.jpg)
 
-a
+Wemos D1 R32 Board fixed inside controllBox
 
 ![D1_led_location_a](/Wemos%20D1%20R32/D1_led_location_a.jpg)
 
-B
+Locations of the two leds
 
 ![D1_led_location_b](/Wemos%20D1%20R32/D1_led_location_b.jpg)
 
-C
-
+Fix the Fiber Optic cables with masking tape
 ![D1_led_location_c](/Wemos%20D1%20R32/D1_led_location_c.jpg)
 
-![D1_leds_off](/Wemos%20D1%20R32/D1_leds_off.jpg)
+Fix the optic cables on the board with hot glue
+
+![D1_led_location_c](/Wemos%20D1%20R32/D1_led_location_d.jpg)
+
 
 ![D1_led_blue_a](/Wemos%20D1%20R32/D1_led_blue_a.jpg)
 
