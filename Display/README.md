@@ -21,6 +21,7 @@ Connections:
 * 1x [1.77 inch TFT LCD screen 128*160](https://www.aliexpress.com/item/32812455774.html)
 * 1x [Breadboard: 20 x 25 mm](https://www.aliexpress.com/item/1005004818919331.html)
 * 1x [Mini Push Button 12x12x8mm](https://www.aliexpress.com/item/1005005582412010.html)
+* 1x [HT7333[(https://www.aliexpress.com/item/1005005945684499.html)
 
 ![Display Schematic](/KiCad/Display/Display.png)
 
