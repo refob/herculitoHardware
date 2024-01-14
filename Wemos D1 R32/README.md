@@ -24,6 +24,7 @@ Locations of the two leds
 ![D1_led_location_b](/Wemos%20D1%20R32/D1_led_location_b.jpg)
 
 Fix the Fiber Optic cables with masking tape
+
 ![D1_led_location_c](/Wemos%20D1%20R32/D1_led_location_c.jpg)
 
 Fix the optic cables on the board with hot glue
