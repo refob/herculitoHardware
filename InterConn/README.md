@@ -7,8 +7,7 @@
 ### BOM
 * 1x [Prototype PCB Expansion Board For Arduino](https://www.aliexpress.com/item/1005004015343791.html)
 * 1x [90 Degree 2.54mm  Double Row Pin Header 2x12P](https://www.aliexpress.com/item/32848774255.html)
-
-
+* 4x 10k resistor
 
 InterConn schematic 
 ![InterConn schematic ](/KiCad/InterConn/InterConn.png)
