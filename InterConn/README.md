@@ -11,6 +11,7 @@
 * 4x 10k resistor
 
 InterConn schematic 
+
 ![InterConn schematic ](/KiCad/InterConn/InterConn.png)
 
 InterConn Front
@@ -29,11 +30,11 @@ Board aligned with pins
 
 ![a](/InterConn/3pin%20b.jpg)
 
-Board 50% push down
+Board 50% pushed down
 
 ![a](/InterConn/3pin%20c.jpg)
 
-Board completely push down
+Board completely pushed down
 
 ![a](/InterConn/3pin%20c.jpg)
 
