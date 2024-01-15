@@ -8,6 +8,7 @@
  * [InterConn board](/InterConn/README.md)
  * [controlBox](/controlBox/README.md)
  * [Display](/Display/README.md)
+ * [TMC2209 driver](/TMC2209/README.md)
  * [Connectors used by the herculito robot arm](/connectors/README.md)
  
  The 3D printable sources are available for download at [UltiMaker Thingiverse](https://www.thingiverse.com/thing:6422152).
