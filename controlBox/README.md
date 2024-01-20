@@ -3,6 +3,7 @@
 ### BOM
 * 1x [DC Power Plug Male 5.5x2.1mm Type C](https://www.aliexpress.com/item/1005003324016159.html)
 * 1x [AC/DC switch-mode power supply 230V to 12V 10A 120W](https://www.ebay.de/itm/386404788570)
+* 1x [Fan 50x50x15 mm](https://www.aliexpress.com/item/1005003960311498.html)
 
 Solder power cables to the power plug
 
