@@ -4,6 +4,7 @@
 
 * 1x [Wemos D1 R32 Board](https://www.aliexpress.com/item/1005006140622416.html)
 * 20cm [Side Glow Fiber Optic Cable 2mm](https://www.aliexpress.com/item/1005003186394069.html)
+* 1x 3D printed part ["ledCover.stl"](/Wemos%20D1%20R32/ledCover.stl)
 
 Pin mapping of the Wemos D1 R32 Board
 
@@ -41,3 +42,10 @@ Red and blue led active
 
 ![Download movie: Blinking leds](https://github.com/refob/herculitoHardware/raw/main/Wemos%20D1%20R32/D1_leds_blinking.mp4)
 
+You can also print "ledCover.stl" and use it to fix the fiber optic cables to the board
+
+![D1_led_blue_a](/Wemos%20D1%20R32/ledCover_1.jpg)
+
+Detail of "ledCover.stl" fixed with hot glue to the board
+
+![D1_led_blue_a](/Wemos%20D1%20R32/ledCover_2.jpg)
