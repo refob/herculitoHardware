@@ -47,23 +47,50 @@ ets Jul 29 2019 12:21:46<CR>
 ![Hardware Modifications](/CNC%20Shield%20V3/CNC%20Shield%20Modifications.png)
 
 The pin above "ENABLE" has to be removed
+
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20a.jpg)
+
 View, after the pin was removed
+
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20b.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20c.jpg)
+
 Solder the removed pin to a cable and the solder dot on the pcb board
+
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20d.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20e.jpg)
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20f.jpg)
+
 Connect the pin to "IO00" on the Wemos D1 R32 board
+
 ![Hardware Modifications](/CNC%20Shield%20V3/enable%20g.jpg)
 
 Locate resistor R1 on the CNC shield
+
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20a.jpg)
+
 Remove the resistor R1
+
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20b.jpg)
+
 Add a new 10k resistor on the other side of the pcb between the shown solder dots
+
 ![Hardware Modifications](/CNC%20Shield%20V3/remove%20R1%20c.jpg)
 
+Use two-component adhesive to fix the pin to the correct location
+
+![gluePin1](/CNC%20Shield%20V3/gluePin1.jpg)
+
+Cable and pin fixed
+
+![gluePin2](/CNC%20Shield%20V3/gluePin2.jpg)
+
+Correct alignment of the pin
+
+![gluePin3](/CNC%20Shield%20V3/gluePin3.jpg)
+
+CNC shield plugged into InterConn board
+
+![gluePin4](/CNC%20Shield%20V3/gluePin4.jpg)
 
 
