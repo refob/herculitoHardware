@@ -19,7 +19,7 @@ Back side
 ![Back side](/Extension/02.jpg)
 
 MOS Switch Extension
-![Front side](/Extension/MOS_Switch.jpg)
+![Front side](/Extension/MOS_Switch.png)
 
 Front side V2 (incl. 2 MOS switches)
 ![Front side](/Extension/04.jpg)
