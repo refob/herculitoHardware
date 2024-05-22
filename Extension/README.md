@@ -18,5 +18,14 @@ Front side
 Back side
 ![Back side](/Extension/02.jpg)
 
+MOS Switch Extension
+![Front side](/Extension/MOS_Switch.jpg)
+
+Front side V2 (incl. 2 MOS switches)
+![Front side](/Extension/04.jpg)
+
+Back side V2 (incl. 2 MOS switches)
+![Back side](/Extension/05.jpg)
+
 Extension board build into the controlBox
 ![Buildin](/Extension/03.jpg)
