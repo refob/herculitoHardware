@@ -27,7 +27,11 @@ Place the drivers
 
 Place the Extensions
 
-![place Extensions](/controlBox/place%20Extensions.jpg)
+![place Extensions](/controlBox/place%20Extensions%201.jpg)
+
+![place Extensions](/controlBox/place%20Extensions%202.jpg)
+
+![place Extensions](/controlBox/place%20Extensions%203.jpg)
 
 Locate the reset button on the lower right
 
